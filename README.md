@@ -1,4 +1,6 @@
-# ✨💽⚠️
+# <p align="center"> 
+  ✨💽⚠️
+  </p>
 
 <p align="center">
   <img width="693" height="436" src="https://i.imgur.com/lWelToq.png">
