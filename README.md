@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="613" height="311" src="https://imgur.com/kOIKjGn">
+  <img width="613" height="311" src="(https://i.imgur.com/kOIKjGn.png)">
 </p>
 
 ## and im an artist. i love drawing my ocs, bright colors, electronic music, osts and cartoons.
