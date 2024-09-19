@@ -1,6 +1,8 @@
+<p align="center">
 # HIIII
 ![im an artist"](https://i.imgur.com/lWelToq.png)
 ## and im an artist. i love drawing my ocs, bright colors, electronic music, osts and cartoons. 
+</p>
 
 <!--
 **pcythunder/pcythunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
