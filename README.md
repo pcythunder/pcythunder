@@ -1,7 +1,7 @@
 # HI!
 
 <p align="center">
-  <img width="693" height="436" src="[https://i.imgur.com/lWelToq.png">
+  <img width="693" height="436" src="https://i.imgur.com/lWelToq.png">
 </p>
 
 ## and im an artist. i love drawing my ocs, bright colors, electronic music, osts and cartoons.
