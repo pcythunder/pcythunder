@@ -1,6 +1,6 @@
 #HI!
-<p align="center">
-![im an artist"](https://i.imgur.com/lWelToq.png) 
+  <p align="center">
+    <img width="200" src="[https://i.imgur.com/lWelToq.png]" alt="sticker">
 </p>
 ## and im an artist. i love drawing my ocs, bright colors, electronic music, osts and cartoons.
 
